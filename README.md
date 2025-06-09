@@ -24,5 +24,4 @@ From the interface, you can select the encryption or decryption algorithm and en
 Note
 Make sure you have Python version 3.x installed.
 Refer to the documentation for more details on each algorithm.
-Author
-KenIT
+Contact If you have any questions, please contact me via email: whitekenit@gmail.com
